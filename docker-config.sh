@@ -10,5 +10,4 @@ docker pull dosel/zalenium
 #      -v /var/run/docker.sock:/var/run/docker.sock \
 #      -v /tmp/videos:/home/seluser/videos \
 #      --privileged dosel/zalenium start
-# do this in jenkins pipeline with a (jenkinsfile)
 
